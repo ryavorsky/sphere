@@ -1,0 +1,2 @@
+# sphere
+Triangular sphere experiments
